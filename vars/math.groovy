@@ -6,3 +6,7 @@ def sub (a,b)
 {
   echo "the sub of ${a} and ${b} is ${a-b}
 }
+def product (a,b)
+{
+  echo" the product of ${a} and ${b} is ${a*b}
+}
